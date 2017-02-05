@@ -1,3 +1,3 @@
 # codegelap
 
-master*
+master version app
